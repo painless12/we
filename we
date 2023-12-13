@@ -2,7 +2,7 @@
 ب
 aaalailai4صث2242424
 sudo apt-get remove docker هبdocker-engine docker.io containerd runc
-
+e
 sudo apt-get update
 
 sudo apt-get install \
